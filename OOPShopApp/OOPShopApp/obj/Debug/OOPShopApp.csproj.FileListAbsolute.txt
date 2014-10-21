@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\bin\Debug\OOPShopApp.exe.config
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\bin\Debug\OOPShopApp.exe
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\bin\Debug\OOPShopApp.pdb
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.ProductUI.resources
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.exe
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.pdb
+C:\Users\PC21\Desktop\20-10 class\OOPShopApp\OOPShopApp\obj\Debug\OOPShopApp.csprojResolveAssemblyReference.cache
